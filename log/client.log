@@ -1,0 +1,1381 @@
+[ 2025-06-26 15:12:19,073 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:12:19,177 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:12:19,459 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:12:20,309 ] Asset loading complete
+[ 2025-06-26 15:12:20,734 ] Client is started for first the time.
+[ 2025-06-26 15:12:20,874 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1b6efba2d60), parent's thread is QThread(0x1b6e43ba200), current thread is QSGRenderThread(0x1b6f11fe4b0)
+[ 2025-06-26 15:41:37,630 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:41:37,649 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:41:38,253 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:41:42,291 ] Asset loading complete
+[ 2025-06-26 15:41:43,184 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x138b505c440), parent's thread is QThread(0x138a7de73e0), current thread is QSGRenderThread(0x138b96d5e80)
+[ 2025-06-26 15:42:35,282 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:42:35,382 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:42:35,616 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:42:36,327 ] Asset loading complete
+[ 2025-06-26 15:42:36,868 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1c4ce61e790), parent's thread is QThread(0x1c4c2088110), current thread is QSGRenderThread(0x1c4ce8285e0)
+[ 2025-06-26 15:42:48,231 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:42:48,248 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:42:48,256 ] Loading of translations failed!
+[ 2025-06-26 15:42:48,483 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:42:49,179 ] Asset loading complete
+[ 2025-06-26 15:42:49,252 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-add-up.png
+[ 2025-06-26 15:42:49,252 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-remove-up.png
+[ 2025-06-26 15:42:49,252 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-add-up.png
+[ 2025-06-26 15:42:49,252 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-remove-up.png
+[ 2025-06-26 15:42:49,255 ] QString::arg: Argument missing: "fps_text" , 0
+[ 2025-06-26 15:42:49,255 ] QString::arg: Argument missing: latency_text, latency_high
+[ 2025-06-26 15:42:49,255 ] QString::arg: Argument missing: latency_text, 0
+[ 2025-06-26 15:42:49,256 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-add-up.png
+[ 2025-06-26 15:42:49,256 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-remove-up.png
+[ 2025-06-26 15:42:49,256 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-add-up.png
+[ 2025-06-26 15:42:49,256 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-remove-up.png
+[ 2025-06-26 15:42:49,280 ] QString::arg: Argument missing: "live_info_players_online" , 0
+[ 2025-06-26 15:42:49,283 ] QString::arg: Argument missing: info_boosted_boss_tooltip, Shadowpelt
+[ 2025-06-26 15:42:49,283 ] QString::arg: Argument missing: info_boosted_creature_tooltip, Brain Squid
+[ 2025-06-26 15:42:49,284 ] QString::arg: Argument missing: "live_info_players_online" , 483
+[ 2025-06-26 15:42:49,320 ] QString::arg: Argument missing: fps_text, 0.00
+[ 2025-06-26 15:42:49,320 ] QString::arg: Argument missing: latency_text, latency_high
+[ 2025-06-26 15:42:49,321 ] QString::arg: Argument missing: "latency_text" , 168
+[ 2025-06-26 15:42:49,321 ] QString::arg: Argument missing: latency_text, latency_low
+[ 2025-06-26 15:42:49,321 ] QString::arg: Argument missing: "latency_text" , 168
+[ 2025-06-26 15:42:49,504 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,504 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,506 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,506 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,506 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,506 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,517 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,517 ] QString::arg: Argument missing: "actionbar_button_identifier" , 2
+[ 2025-06-26 15:42:49,520 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,520 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:42:49,520 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Magic Patch
+[ 2025-06-26 15:42:49,520 ] QString::arg: Argument missing: "time_second_short" , 1
+[ 2025-06-26 15:42:49,521 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,521 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:42:49,521 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Swift Jab
+[ 2025-06-26 15:42:49,521 ] QString::arg: Argument missing: "time_second_short" , 2
+[ 2025-06-26 15:42:49,522 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,523 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:42:49,523 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Tiger Clash
+[ 2025-06-26 15:42:49,523 ] QString::arg: Argument missing: "time_second_short" , 8
+[ 2025-06-26 15:42:49,525 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,525 ] QString::arg: Argument missing: "actionbar_button_identifier" , 6
+[ 2025-06-26 15:42:49,527 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,527 ] QString::arg: Argument missing: "actionbar_button_identifier" , 7
+[ 2025-06-26 15:42:49,528 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,528 ] QString::arg: Argument missing: "actionbar_button_identifier" , 8
+[ 2025-06-26 15:42:49,529 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,529 ] QString::arg: Argument missing: "actionbar_button_identifier" , 9
+[ 2025-06-26 15:42:49,530 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,530 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:42:49,532 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,532 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:42:49,533 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,533 ] QString::arg: Argument missing: "actionbar_button_identifier" , 11
+[ 2025-06-26 15:42:49,534 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,534 ] QString::arg: Argument missing: "actionbar_button_identifier" , 12
+[ 2025-06-26 15:42:49,534 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,534 ] QString::arg: Argument missing: "actionbar_button_identifier" , 13
+[ 2025-06-26 15:42:49,536 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,536 ] QString::arg: Argument missing: "actionbar_button_identifier" , 14
+[ 2025-06-26 15:42:49,537 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,538 ] QString::arg: Argument missing: "actionbar_button_identifier" , 15
+[ 2025-06-26 15:42:49,538 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,538 ] QString::arg: Argument missing: "actionbar_button_identifier" , 16
+[ 2025-06-26 15:42:49,539 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,540 ] QString::arg: Argument missing: "actionbar_button_identifier" , 17
+[ 2025-06-26 15:42:49,540 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,541 ] QString::arg: Argument missing: "actionbar_button_identifier" , 18
+[ 2025-06-26 15:42:49,542 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,542 ] QString::arg: Argument missing: "actionbar_button_identifier" , 19
+[ 2025-06-26 15:42:49,546 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,546 ] QString::arg: Argument missing: "actionbar_button_identifier" , 20
+[ 2025-06-26 15:42:49,547 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,547 ] QString::arg: Argument missing: "actionbar_button_identifier" , 21
+[ 2025-06-26 15:42:49,549 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,549 ] QString::arg: Argument missing: "actionbar_button_identifier" , 22
+[ 2025-06-26 15:42:49,550 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,550 ] QString::arg: Argument missing: "actionbar_button_identifier" , 23
+[ 2025-06-26 15:42:49,551 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,551 ] QString::arg: Argument missing: "actionbar_button_identifier" , 24
+[ 2025-06-26 15:42:49,552 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,552 ] QString::arg: Argument missing: "actionbar_button_identifier" , 25
+[ 2025-06-26 15:42:49,553 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,554 ] QString::arg: Argument missing: "actionbar_button_identifier" , 26
+[ 2025-06-26 15:42:49,554 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,554 ] QString::arg: Argument missing: "actionbar_button_identifier" , 27
+[ 2025-06-26 15:42:49,555 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,555 ] QString::arg: Argument missing: "actionbar_button_identifier" , 28
+[ 2025-06-26 15:42:49,556 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,556 ] QString::arg: Argument missing: "actionbar_button_identifier" , 29
+[ 2025-06-26 15:42:49,558 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,559 ] QString::arg: Argument missing: "actionbar_button_identifier" , 30
+[ 2025-06-26 15:42:49,560 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,560 ] QString::arg: Argument missing: "actionbar_button_identifier" , 31
+[ 2025-06-26 15:42:49,561 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,561 ] QString::arg: Argument missing: "actionbar_button_identifier" , 32
+[ 2025-06-26 15:42:49,562 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,562 ] QString::arg: Argument missing: "actionbar_button_identifier" , 33
+[ 2025-06-26 15:42:49,563 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,563 ] QString::arg: Argument missing: "actionbar_button_identifier" , 34
+[ 2025-06-26 15:42:49,564 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,564 ] QString::arg: Argument missing: "actionbar_button_identifier" , 35
+[ 2025-06-26 15:42:49,566 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:49,566 ] QString::arg: Argument missing: "actionbar_button_identifier" , 36
+[ 2025-06-26 15:42:49,614 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:49,614 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:49,614 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:49,614 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:49,615 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:49,615 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:49,615 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:49,615 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:49,616 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:49,616 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,110 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:50,110 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,110 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:50,111 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,111 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:50,111 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,112 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:50,112 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,112 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:50,113 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,579 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:50,579 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,580 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:50,580 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,580 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:50,580 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,581 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:50,581 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,581 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:50,583 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:50,988 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x15a7e40aa70), parent's thread is QThread(0x15a71bcbb90), current thread is QSGRenderThread(0x15a7e357b70)
+[ 2025-06-26 15:42:51,039 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,040 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,040 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,040 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,041 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,041 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,041 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,041 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,042 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,042 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,499 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,499 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,501 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,501 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,501 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,501 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,502 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,502 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,502 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,503 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,960 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,960 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,960 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,961 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,961 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,961 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,962 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,962 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:51,962 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:51,962 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:52,426 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:52,426 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:52,426 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:52,426 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:52,427 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:52,427 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:52,427 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:52,428 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:52,428 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:52,428 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:52,885 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:52,886 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:52,886 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:52,886 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:52,886 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:52,887 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:52,887 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:52,887 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:52,888 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:52,888 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:53,359 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:53,359 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:53,360 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:53,360 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:53,360 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:53,361 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:53,361 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:53,362 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:53,362 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:53,362 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:53,819 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:53,820 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:53,820 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:53,820 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:53,821 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:53,821 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:53,822 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:53,822 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:53,822 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:53,822 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:54,295 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:54,295 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:54,295 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:54,296 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:54,296 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:54,296 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:54,297 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:54,297 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:54,297 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:54,298 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:54,761 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:54,761 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:54,762 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:54,762 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:54,763 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:54,763 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:54,763 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:54,763 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:54,764 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:54,764 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:55,246 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:55,246 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:55,247 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:55,247 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:55,248 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:55,248 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:55,249 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:55,249 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:55,250 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:55,250 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:55,721 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:55,722 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:55,722 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:55,722 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:55,724 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:55,724 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:55,725 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:55,725 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:55,726 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:55,726 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:56,207 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:56,208 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:56,209 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:56,210 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:56,210 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:56,211 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:56,212 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:56,212 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:56,214 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:56,215 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:56,681 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:56,681 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:56,682 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:56,682 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:56,682 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:56,684 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:56,684 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:56,685 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:56,686 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:56,686 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:57,124 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,125 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,125 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,126 ] QString::arg: Argument missing: "actionbar_button_identifier" , 2
+[ 2025-06-26 15:42:57,126 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,127 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:42:57,127 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,128 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:42:57,129 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,129 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:42:57,130 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,131 ] QString::arg: Argument missing: "actionbar_button_identifier" , 6
+[ 2025-06-26 15:42:57,131 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,132 ] QString::arg: Argument missing: "actionbar_button_identifier" , 7
+[ 2025-06-26 15:42:57,132 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,132 ] QString::arg: Argument missing: "actionbar_button_identifier" , 8
+[ 2025-06-26 15:42:57,134 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,134 ] QString::arg: Argument missing: "actionbar_button_identifier" , 9
+[ 2025-06-26 15:42:57,135 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,135 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:42:57,136 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,136 ] QString::arg: Argument missing: "actionbar_button_identifier" , 11
+[ 2025-06-26 15:42:57,137 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,137 ] QString::arg: Argument missing: "actionbar_button_identifier" , 12
+[ 2025-06-26 15:42:57,138 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,138 ] QString::arg: Argument missing: "actionbar_button_identifier" , 13
+[ 2025-06-26 15:42:57,140 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,141 ] QString::arg: Argument missing: "actionbar_button_identifier" , 14
+[ 2025-06-26 15:42:57,142 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,142 ] QString::arg: Argument missing: "actionbar_button_identifier" , 15
+[ 2025-06-26 15:42:57,143 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,144 ] QString::arg: Argument missing: "actionbar_button_identifier" , 16
+[ 2025-06-26 15:42:57,144 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,146 ] QString::arg: Argument missing: "actionbar_button_identifier" , 17
+[ 2025-06-26 15:42:57,147 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,147 ] QString::arg: Argument missing: "actionbar_button_identifier" , 18
+[ 2025-06-26 15:42:57,148 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,148 ] QString::arg: Argument missing: "actionbar_button_identifier" , 19
+[ 2025-06-26 15:42:57,149 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,150 ] QString::arg: Argument missing: "actionbar_button_identifier" , 20
+[ 2025-06-26 15:42:57,151 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,151 ] QString::arg: Argument missing: "actionbar_button_identifier" , 21
+[ 2025-06-26 15:42:57,152 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,153 ] QString::arg: Argument missing: "actionbar_button_identifier" , 22
+[ 2025-06-26 15:42:57,154 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,155 ] QString::arg: Argument missing: "actionbar_button_identifier" , 23
+[ 2025-06-26 15:42:57,156 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,156 ] QString::arg: Argument missing: "actionbar_button_identifier" , 24
+[ 2025-06-26 15:42:57,157 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,158 ] QString::arg: Argument missing: "actionbar_button_identifier" , 25
+[ 2025-06-26 15:42:57,159 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,159 ] QString::arg: Argument missing: "actionbar_button_identifier" , 26
+[ 2025-06-26 15:42:57,160 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,161 ] QString::arg: Argument missing: "actionbar_button_identifier" , 27
+[ 2025-06-26 15:42:57,162 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,164 ] QString::arg: Argument missing: "actionbar_button_identifier" , 28
+[ 2025-06-26 15:42:57,165 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,166 ] QString::arg: Argument missing: "actionbar_button_identifier" , 29
+[ 2025-06-26 15:42:57,166 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,167 ] QString::arg: Argument missing: "actionbar_button_identifier" , 30
+[ 2025-06-26 15:42:57,168 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,168 ] QString::arg: Argument missing: "actionbar_button_identifier" , 31
+[ 2025-06-26 15:42:57,169 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,170 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:42:57,170 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,171 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:42:57,172 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Magic Patch
+[ 2025-06-26 15:42:57,172 ] QString::arg: Argument missing: "time_second_short" , 1
+[ 2025-06-26 15:42:57,172 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,174 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:42:57,175 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,175 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:42:57,176 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Swift Jab
+[ 2025-06-26 15:42:57,176 ] QString::arg: Argument missing: "time_second_short" , 2
+[ 2025-06-26 15:42:57,177 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,177 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:42:57,178 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,179 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:42:57,179 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Tiger Clash
+[ 2025-06-26 15:42:57,180 ] QString::arg: Argument missing: "time_second_short" , 8
+[ 2025-06-26 15:42:57,180 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,181 ] QString::arg: Argument missing: "actionbar_button_identifier" , 6
+[ 2025-06-26 15:42:57,182 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,182 ] QString::arg: Argument missing: "actionbar_button_identifier" , 7
+[ 2025-06-26 15:42:57,182 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,184 ] QString::arg: Argument missing: "actionbar_button_identifier" , 8
+[ 2025-06-26 15:42:57,185 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,185 ] QString::arg: Argument missing: "actionbar_button_identifier" , 9
+[ 2025-06-26 15:42:57,186 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,186 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:42:57,187 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,187 ] QString::arg: Argument missing: "actionbar_button_identifier" , 11
+[ 2025-06-26 15:42:57,188 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,189 ] QString::arg: Argument missing: "actionbar_button_identifier" , 12
+[ 2025-06-26 15:42:57,189 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,190 ] QString::arg: Argument missing: "actionbar_button_identifier" , 13
+[ 2025-06-26 15:42:57,191 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,191 ] QString::arg: Argument missing: "actionbar_button_identifier" , 14
+[ 2025-06-26 15:42:57,192 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,192 ] QString::arg: Argument missing: "actionbar_button_identifier" , 15
+[ 2025-06-26 15:42:57,194 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,194 ] QString::arg: Argument missing: "actionbar_button_identifier" , 16
+[ 2025-06-26 15:42:57,195 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,196 ] QString::arg: Argument missing: "actionbar_button_identifier" , 17
+[ 2025-06-26 15:42:57,196 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,196 ] QString::arg: Argument missing: "actionbar_button_identifier" , 18
+[ 2025-06-26 15:42:57,197 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,198 ] QString::arg: Argument missing: "actionbar_button_identifier" , 19
+[ 2025-06-26 15:42:57,198 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,199 ] QString::arg: Argument missing: "actionbar_button_identifier" , 20
+[ 2025-06-26 15:42:57,200 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,200 ] QString::arg: Argument missing: "actionbar_button_identifier" , 21
+[ 2025-06-26 15:42:57,201 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,202 ] QString::arg: Argument missing: "actionbar_button_identifier" , 22
+[ 2025-06-26 15:42:57,202 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,204 ] QString::arg: Argument missing: "actionbar_button_identifier" , 23
+[ 2025-06-26 15:42:57,204 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,205 ] QString::arg: Argument missing: "actionbar_button_identifier" , 24
+[ 2025-06-26 15:42:57,206 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,206 ] QString::arg: Argument missing: "actionbar_button_identifier" , 25
+[ 2025-06-26 15:42:57,206 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,207 ] QString::arg: Argument missing: "actionbar_button_identifier" , 26
+[ 2025-06-26 15:42:57,208 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,208 ] QString::arg: Argument missing: "actionbar_button_identifier" , 27
+[ 2025-06-26 15:42:57,209 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,210 ] QString::arg: Argument missing: "actionbar_button_identifier" , 28
+[ 2025-06-26 15:42:57,215 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,216 ] QString::arg: Argument missing: "actionbar_button_identifier" , 29
+[ 2025-06-26 15:42:57,216 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,217 ] QString::arg: Argument missing: "actionbar_button_identifier" , 30
+[ 2025-06-26 15:42:57,217 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:42:57,218 ] QString::arg: Argument missing: "actionbar_button_identifier" , 31
+[ 2025-06-26 15:42:57,219 ] QString::arg: Argument missing: inspect_inspecting, 
+[ 2025-06-26 15:42:57,266 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:57,267 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:57,268 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:57,269 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:57,269 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:57,270 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:57,271 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:57,271 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:42:57,272 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:42:57,272 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:44:55,591 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:44:55,609 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:44:56,037 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:44:59,210 ] Asset loading complete
+[ 2025-06-26 15:44:59,731 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x25cc6b895c0), parent's thread is QThread(0x25cba207270), current thread is QSGRenderThread(0x25cc54d0cc0)
+[ 2025-06-26 15:45:04,562 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:45:04,580 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:45:04,813 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:45:05,536 ] Asset loading complete
+[ 2025-06-26 15:45:06,012 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1f5721eb610), parent's thread is QThread(0x1f56675cbf0), current thread is QSGRenderThread(0x1f573942430)
+[ 2025-06-26 15:48:53,417 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:48:53,437 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:48:53,819 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:48:54,888 ] Asset loading complete
+[ 2025-06-26 15:50:21,412 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:50:21,429 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:50:21,448 ] Loading of translations failed!
+[ 2025-06-26 15:50:21,688 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:50:22,432 ] Asset loading complete
+[ 2025-06-26 15:50:22,517 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-add-up.png
+[ 2025-06-26 15:50:22,517 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-remove-up.png
+[ 2025-06-26 15:50:22,519 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-add-up.png
+[ 2025-06-26 15:50:22,519 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-remove-up.png
+[ 2025-06-26 15:50:22,523 ] QString::arg: Argument missing: "fps_text" , 0
+[ 2025-06-26 15:50:22,523 ] QString::arg: Argument missing: latency_text, latency_high
+[ 2025-06-26 15:50:22,523 ] QString::arg: Argument missing: latency_text, 0
+[ 2025-06-26 15:50:22,524 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-add-up.png
+[ 2025-06-26 15:50:22,524 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-remove-up.png
+[ 2025-06-26 15:50:22,524 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-add-up.png
+[ 2025-06-26 15:50:22,524 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-remove-up.png
+[ 2025-06-26 15:50:22,547 ] QString::arg: Argument missing: "live_info_players_online" , 0
+[ 2025-06-26 15:50:22,549 ] QString::arg: Argument missing: info_boosted_boss_tooltip, Shadowpelt
+[ 2025-06-26 15:50:22,550 ] QString::arg: Argument missing: info_boosted_creature_tooltip, Brain Squid
+[ 2025-06-26 15:50:22,550 ] QString::arg: Argument missing: "live_info_players_online" , 483
+[ 2025-06-26 15:50:22,589 ] QString::arg: Argument missing: fps_text, 0.00
+[ 2025-06-26 15:50:22,589 ] QString::arg: Argument missing: latency_text, latency_high
+[ 2025-06-26 15:50:22,589 ] QString::arg: Argument missing: "latency_text" , -1
+[ 2025-06-26 15:50:22,590 ] QString::arg: Argument missing: latency_text, latency_low
+[ 2025-06-26 15:50:22,590 ] QString::arg: Argument missing: "latency_text" , -1
+[ 2025-06-26 15:50:22,772 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,772 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,774 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,774 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,774 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,774 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,776 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,776 ] QString::arg: Argument missing: "actionbar_button_identifier" , 2
+[ 2025-06-26 15:50:22,778 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,778 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:50:22,778 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Magic Patch
+[ 2025-06-26 15:50:22,778 ] QString::arg: Argument missing: "time_second_short" , 1
+[ 2025-06-26 15:50:22,778 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,780 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:50:22,780 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Swift Jab
+[ 2025-06-26 15:50:22,780 ] QString::arg: Argument missing: "time_second_short" , 2
+[ 2025-06-26 15:50:22,781 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,781 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:50:22,781 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Tiger Clash
+[ 2025-06-26 15:50:22,781 ] QString::arg: Argument missing: "time_second_short" , 8
+[ 2025-06-26 15:50:22,782 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,783 ] QString::arg: Argument missing: "actionbar_button_identifier" , 6
+[ 2025-06-26 15:50:22,783 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,783 ] QString::arg: Argument missing: "actionbar_button_identifier" , 7
+[ 2025-06-26 15:50:22,784 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,784 ] QString::arg: Argument missing: "actionbar_button_identifier" , 8
+[ 2025-06-26 15:50:22,785 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,785 ] QString::arg: Argument missing: "actionbar_button_identifier" , 9
+[ 2025-06-26 15:50:22,787 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,787 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:50:22,788 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,788 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:50:22,790 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,790 ] QString::arg: Argument missing: "actionbar_button_identifier" , 11
+[ 2025-06-26 15:50:22,791 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,791 ] QString::arg: Argument missing: "actionbar_button_identifier" , 12
+[ 2025-06-26 15:50:22,792 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,792 ] QString::arg: Argument missing: "actionbar_button_identifier" , 13
+[ 2025-06-26 15:50:22,793 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,793 ] QString::arg: Argument missing: "actionbar_button_identifier" , 14
+[ 2025-06-26 15:50:22,793 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,793 ] QString::arg: Argument missing: "actionbar_button_identifier" , 15
+[ 2025-06-26 15:50:22,795 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,795 ] QString::arg: Argument missing: "actionbar_button_identifier" , 16
+[ 2025-06-26 15:50:22,795 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,796 ] QString::arg: Argument missing: "actionbar_button_identifier" , 17
+[ 2025-06-26 15:50:22,797 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,797 ] QString::arg: Argument missing: "actionbar_button_identifier" , 18
+[ 2025-06-26 15:50:22,798 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,798 ] QString::arg: Argument missing: "actionbar_button_identifier" , 19
+[ 2025-06-26 15:50:22,802 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,802 ] QString::arg: Argument missing: "actionbar_button_identifier" , 20
+[ 2025-06-26 15:50:22,803 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,803 ] QString::arg: Argument missing: "actionbar_button_identifier" , 21
+[ 2025-06-26 15:50:22,803 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,803 ] QString::arg: Argument missing: "actionbar_button_identifier" , 22
+[ 2025-06-26 15:50:22,805 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,805 ] QString::arg: Argument missing: "actionbar_button_identifier" , 23
+[ 2025-06-26 15:50:22,806 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,806 ] QString::arg: Argument missing: "actionbar_button_identifier" , 24
+[ 2025-06-26 15:50:22,807 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,808 ] QString::arg: Argument missing: "actionbar_button_identifier" , 25
+[ 2025-06-26 15:50:22,809 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,809 ] QString::arg: Argument missing: "actionbar_button_identifier" , 26
+[ 2025-06-26 15:50:22,810 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,810 ] QString::arg: Argument missing: "actionbar_button_identifier" , 27
+[ 2025-06-26 15:50:22,810 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,811 ] QString::arg: Argument missing: "actionbar_button_identifier" , 28
+[ 2025-06-26 15:50:22,812 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,812 ] QString::arg: Argument missing: "actionbar_button_identifier" , 29
+[ 2025-06-26 15:50:22,813 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,813 ] QString::arg: Argument missing: "actionbar_button_identifier" , 30
+[ 2025-06-26 15:50:22,815 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,815 ] QString::arg: Argument missing: "actionbar_button_identifier" , 31
+[ 2025-06-26 15:50:22,815 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,815 ] QString::arg: Argument missing: "actionbar_button_identifier" , 32
+[ 2025-06-26 15:50:22,817 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,817 ] QString::arg: Argument missing: "actionbar_button_identifier" , 33
+[ 2025-06-26 15:50:22,818 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,818 ] QString::arg: Argument missing: "actionbar_button_identifier" , 34
+[ 2025-06-26 15:50:22,819 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,819 ] QString::arg: Argument missing: "actionbar_button_identifier" , 35
+[ 2025-06-26 15:50:22,820 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:22,820 ] QString::arg: Argument missing: "actionbar_button_identifier" , 36
+[ 2025-06-26 15:50:22,868 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:22,868 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:22,868 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:22,868 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:22,868 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:22,870 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:22,870 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:22,870 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:22,870 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:22,871 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:23,372 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:23,373 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:23,373 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:23,373 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:23,373 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:23,374 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:23,374 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:23,374 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:23,374 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:23,375 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:23,835 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:23,835 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:23,836 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:23,836 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:23,837 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:23,837 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:23,837 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:23,837 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:23,837 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:23,837 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:24,294 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:24,294 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:24,295 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:24,295 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:24,295 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:24,295 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:24,295 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:24,296 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:24,296 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:24,296 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:24,750 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:24,750 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:24,750 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:24,750 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:24,751 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:24,751 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:24,752 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:24,753 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:24,753 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:24,753 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:25,181 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,181 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,181 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,181 ] QString::arg: Argument missing: "actionbar_button_identifier" , 2
+[ 2025-06-26 15:50:25,183 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,183 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:50:25,183 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,183 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:50:25,183 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,184 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:50:25,184 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,184 ] QString::arg: Argument missing: "actionbar_button_identifier" , 6
+[ 2025-06-26 15:50:25,185 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,185 ] QString::arg: Argument missing: "actionbar_button_identifier" , 7
+[ 2025-06-26 15:50:25,185 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,186 ] QString::arg: Argument missing: "actionbar_button_identifier" , 8
+[ 2025-06-26 15:50:25,186 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,187 ] QString::arg: Argument missing: "actionbar_button_identifier" , 9
+[ 2025-06-26 15:50:25,187 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,187 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:50:25,188 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,188 ] QString::arg: Argument missing: "actionbar_button_identifier" , 11
+[ 2025-06-26 15:50:25,188 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,188 ] QString::arg: Argument missing: "actionbar_button_identifier" , 12
+[ 2025-06-26 15:50:25,189 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,189 ] QString::arg: Argument missing: "actionbar_button_identifier" , 13
+[ 2025-06-26 15:50:25,189 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,190 ] QString::arg: Argument missing: "actionbar_button_identifier" , 14
+[ 2025-06-26 15:50:25,190 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,190 ] QString::arg: Argument missing: "actionbar_button_identifier" , 15
+[ 2025-06-26 15:50:25,191 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,191 ] QString::arg: Argument missing: "actionbar_button_identifier" , 16
+[ 2025-06-26 15:50:25,191 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,191 ] QString::arg: Argument missing: "actionbar_button_identifier" , 17
+[ 2025-06-26 15:50:25,193 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,193 ] QString::arg: Argument missing: "actionbar_button_identifier" , 18
+[ 2025-06-26 15:50:25,193 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,193 ] QString::arg: Argument missing: "actionbar_button_identifier" , 19
+[ 2025-06-26 15:50:25,193 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,194 ] QString::arg: Argument missing: "actionbar_button_identifier" , 20
+[ 2025-06-26 15:50:25,195 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,195 ] QString::arg: Argument missing: "actionbar_button_identifier" , 21
+[ 2025-06-26 15:50:25,195 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,195 ] QString::arg: Argument missing: "actionbar_button_identifier" , 22
+[ 2025-06-26 15:50:25,196 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,196 ] QString::arg: Argument missing: "actionbar_button_identifier" , 23
+[ 2025-06-26 15:50:25,196 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,197 ] QString::arg: Argument missing: "actionbar_button_identifier" , 24
+[ 2025-06-26 15:50:25,197 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,197 ] QString::arg: Argument missing: "actionbar_button_identifier" , 25
+[ 2025-06-26 15:50:25,198 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,198 ] QString::arg: Argument missing: "actionbar_button_identifier" , 26
+[ 2025-06-26 15:50:25,198 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,199 ] QString::arg: Argument missing: "actionbar_button_identifier" , 27
+[ 2025-06-26 15:50:25,200 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,200 ] QString::arg: Argument missing: "actionbar_button_identifier" , 28
+[ 2025-06-26 15:50:25,200 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,201 ] QString::arg: Argument missing: "actionbar_button_identifier" , 29
+[ 2025-06-26 15:50:25,201 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,202 ] QString::arg: Argument missing: "actionbar_button_identifier" , 30
+[ 2025-06-26 15:50:25,202 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,202 ] QString::arg: Argument missing: "actionbar_button_identifier" , 31
+[ 2025-06-26 15:50:25,203 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,203 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:50:25,203 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,204 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:50:25,204 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Magic Patch
+[ 2025-06-26 15:50:25,204 ] QString::arg: Argument missing: "time_second_short" , 1
+[ 2025-06-26 15:50:25,205 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,206 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:50:25,206 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,206 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:50:25,206 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Swift Jab
+[ 2025-06-26 15:50:25,207 ] QString::arg: Argument missing: "time_second_short" , 2
+[ 2025-06-26 15:50:25,207 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,208 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:50:25,208 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,209 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:50:25,209 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Tiger Clash
+[ 2025-06-26 15:50:25,210 ] QString::arg: Argument missing: "time_second_short" , 8
+[ 2025-06-26 15:50:25,210 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,210 ] QString::arg: Argument missing: "actionbar_button_identifier" , 6
+[ 2025-06-26 15:50:25,211 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,211 ] QString::arg: Argument missing: "actionbar_button_identifier" , 7
+[ 2025-06-26 15:50:25,212 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,212 ] QString::arg: Argument missing: "actionbar_button_identifier" , 8
+[ 2025-06-26 15:50:25,212 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,212 ] QString::arg: Argument missing: "actionbar_button_identifier" , 9
+[ 2025-06-26 15:50:25,213 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,213 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:50:25,214 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,215 ] QString::arg: Argument missing: "actionbar_button_identifier" , 11
+[ 2025-06-26 15:50:25,215 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,215 ] QString::arg: Argument missing: "actionbar_button_identifier" , 12
+[ 2025-06-26 15:50:25,215 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,216 ] QString::arg: Argument missing: "actionbar_button_identifier" , 13
+[ 2025-06-26 15:50:25,217 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,217 ] QString::arg: Argument missing: "actionbar_button_identifier" , 14
+[ 2025-06-26 15:50:25,218 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,218 ] QString::arg: Argument missing: "actionbar_button_identifier" , 15
+[ 2025-06-26 15:50:25,219 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,219 ] QString::arg: Argument missing: "actionbar_button_identifier" , 16
+[ 2025-06-26 15:50:25,219 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,219 ] QString::arg: Argument missing: "actionbar_button_identifier" , 17
+[ 2025-06-26 15:50:25,220 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,220 ] QString::arg: Argument missing: "actionbar_button_identifier" , 18
+[ 2025-06-26 15:50:25,221 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,221 ] QString::arg: Argument missing: "actionbar_button_identifier" , 19
+[ 2025-06-26 15:50:25,222 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,222 ] QString::arg: Argument missing: "actionbar_button_identifier" , 20
+[ 2025-06-26 15:50:25,222 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,223 ] QString::arg: Argument missing: "actionbar_button_identifier" , 21
+[ 2025-06-26 15:50:25,224 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,224 ] QString::arg: Argument missing: "actionbar_button_identifier" , 22
+[ 2025-06-26 15:50:25,225 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,225 ] QString::arg: Argument missing: "actionbar_button_identifier" , 23
+[ 2025-06-26 15:50:25,225 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,226 ] QString::arg: Argument missing: "actionbar_button_identifier" , 24
+[ 2025-06-26 15:50:25,226 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,227 ] QString::arg: Argument missing: "actionbar_button_identifier" , 25
+[ 2025-06-26 15:50:25,228 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,228 ] QString::arg: Argument missing: "actionbar_button_identifier" , 26
+[ 2025-06-26 15:50:25,228 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,229 ] QString::arg: Argument missing: "actionbar_button_identifier" , 27
+[ 2025-06-26 15:50:25,229 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,230 ] QString::arg: Argument missing: "actionbar_button_identifier" , 28
+[ 2025-06-26 15:50:25,230 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,230 ] QString::arg: Argument missing: "actionbar_button_identifier" , 29
+[ 2025-06-26 15:50:25,231 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,232 ] QString::arg: Argument missing: "actionbar_button_identifier" , 30
+[ 2025-06-26 15:50:25,232 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:50:25,233 ] QString::arg: Argument missing: "actionbar_button_identifier" , 31
+[ 2025-06-26 15:50:25,233 ] QString::arg: Argument missing: inspect_inspecting, 
+[ 2025-06-26 15:50:25,281 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:25,281 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:25,281 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:25,283 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:25,283 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:25,283 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:25,284 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:25,284 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:50:25,285 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:50:25,285 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:02,677 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:52:02,693 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:52:02,702 ] Loading of translations failed!
+[ 2025-06-26 15:52:02,928 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:52:03,618 ] Asset loading complete
+[ 2025-06-26 15:52:03,683 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-add-up.png
+[ 2025-06-26 15:52:03,683 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-remove-up.png
+[ 2025-06-26 15:52:03,684 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-add-up.png
+[ 2025-06-26 15:52:03,684 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-right-remove-up.png
+[ 2025-06-26 15:52:03,686 ] QString::arg: Argument missing: "fps_text" , 0
+[ 2025-06-26 15:52:03,686 ] QString::arg: Argument missing: latency_text, latency_high
+[ 2025-06-26 15:52:03,686 ] QString::arg: Argument missing: latency_text, 0
+[ 2025-06-26 15:52:03,687 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-add-up.png
+[ 2025-06-26 15:52:03,687 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-remove-up.png
+[ 2025-06-26 15:52:03,687 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-add-up.png
+[ 2025-06-26 15:52:03,687 ] QString::arg: Argument missing: sidebar_manager_lenshelp, /images/button-sidebar-left-remove-up.png
+[ 2025-06-26 15:52:03,707 ] QString::arg: Argument missing: "live_info_players_online" , 0
+[ 2025-06-26 15:52:03,711 ] QString::arg: Argument missing: info_boosted_boss_tooltip, Shadowpelt
+[ 2025-06-26 15:52:03,711 ] QString::arg: Argument missing: info_boosted_creature_tooltip, Brain Squid
+[ 2025-06-26 15:52:03,711 ] QString::arg: Argument missing: "live_info_players_online" , 0
+[ 2025-06-26 15:52:03,745 ] QString::arg: Argument missing: fps_text, 0.00
+[ 2025-06-26 15:52:03,745 ] QString::arg: Argument missing: latency_text, latency_high
+[ 2025-06-26 15:52:03,745 ] QString::arg: Argument missing: "latency_text" , 40
+[ 2025-06-26 15:52:03,745 ] QString::arg: Argument missing: latency_text, latency_low
+[ 2025-06-26 15:52:03,745 ] QString::arg: Argument missing: "latency_text" , 40
+[ 2025-06-26 15:52:03,922 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,922 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,924 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,924 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,924 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,924 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,936 ] QString::arg: Argument missing: "live_info_players_online" , 0
+[ 2025-06-26 15:52:03,937 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,937 ] QString::arg: Argument missing: "actionbar_button_identifier" , 2
+[ 2025-06-26 15:52:03,938 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,939 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:52:03,939 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Magic Patch
+[ 2025-06-26 15:52:03,939 ] QString::arg: Argument missing: "time_second_short" , 1
+[ 2025-06-26 15:52:03,940 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,940 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:52:03,940 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Swift Jab
+[ 2025-06-26 15:52:03,940 ] QString::arg: Argument missing: "time_second_short" , 2
+[ 2025-06-26 15:52:03,942 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,942 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:52:03,942 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Tiger Clash
+[ 2025-06-26 15:52:03,942 ] QString::arg: Argument missing: "time_second_short" , 8
+[ 2025-06-26 15:52:03,944 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,944 ] QString::arg: Argument missing: "actionbar_button_identifier" , 6
+[ 2025-06-26 15:52:03,944 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,945 ] QString::arg: Argument missing: "actionbar_button_identifier" , 7
+[ 2025-06-26 15:52:03,946 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,946 ] QString::arg: Argument missing: "actionbar_button_identifier" , 8
+[ 2025-06-26 15:52:03,947 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,947 ] QString::arg: Argument missing: "actionbar_button_identifier" , 9
+[ 2025-06-26 15:52:03,949 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,949 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:52:03,951 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,951 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:52:03,953 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,953 ] QString::arg: Argument missing: "actionbar_button_identifier" , 11
+[ 2025-06-26 15:52:03,953 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,953 ] QString::arg: Argument missing: "actionbar_button_identifier" , 12
+[ 2025-06-26 15:52:03,954 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,955 ] QString::arg: Argument missing: "actionbar_button_identifier" , 13
+[ 2025-06-26 15:52:03,956 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,956 ] QString::arg: Argument missing: "actionbar_button_identifier" , 14
+[ 2025-06-26 15:52:03,957 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,957 ] QString::arg: Argument missing: "actionbar_button_identifier" , 15
+[ 2025-06-26 15:52:03,958 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,958 ] QString::arg: Argument missing: "actionbar_button_identifier" , 16
+[ 2025-06-26 15:52:03,959 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,960 ] QString::arg: Argument missing: "actionbar_button_identifier" , 17
+[ 2025-06-26 15:52:03,961 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,961 ] QString::arg: Argument missing: "actionbar_button_identifier" , 18
+[ 2025-06-26 15:52:03,962 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,962 ] QString::arg: Argument missing: "actionbar_button_identifier" , 19
+[ 2025-06-26 15:52:03,965 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,965 ] QString::arg: Argument missing: "actionbar_button_identifier" , 20
+[ 2025-06-26 15:52:03,967 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,967 ] QString::arg: Argument missing: "actionbar_button_identifier" , 21
+[ 2025-06-26 15:52:03,968 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,969 ] QString::arg: Argument missing: "actionbar_button_identifier" , 22
+[ 2025-06-26 15:52:03,970 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,970 ] QString::arg: Argument missing: "actionbar_button_identifier" , 23
+[ 2025-06-26 15:52:03,971 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,971 ] QString::arg: Argument missing: "actionbar_button_identifier" , 24
+[ 2025-06-26 15:52:03,972 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,972 ] QString::arg: Argument missing: "actionbar_button_identifier" , 25
+[ 2025-06-26 15:52:03,974 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,974 ] QString::arg: Argument missing: "actionbar_button_identifier" , 26
+[ 2025-06-26 15:52:03,975 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,975 ] QString::arg: Argument missing: "actionbar_button_identifier" , 27
+[ 2025-06-26 15:52:03,976 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,976 ] QString::arg: Argument missing: "actionbar_button_identifier" , 28
+[ 2025-06-26 15:52:03,977 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,978 ] QString::arg: Argument missing: "actionbar_button_identifier" , 29
+[ 2025-06-26 15:52:03,979 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,979 ] QString::arg: Argument missing: "actionbar_button_identifier" , 30
+[ 2025-06-26 15:52:03,980 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,980 ] QString::arg: Argument missing: "actionbar_button_identifier" , 31
+[ 2025-06-26 15:52:03,981 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,981 ] QString::arg: Argument missing: "actionbar_button_identifier" , 32
+[ 2025-06-26 15:52:03,983 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,983 ] QString::arg: Argument missing: "actionbar_button_identifier" , 33
+[ 2025-06-26 15:52:03,984 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,984 ] QString::arg: Argument missing: "actionbar_button_identifier" , 34
+[ 2025-06-26 15:52:03,985 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,985 ] QString::arg: Argument missing: "actionbar_button_identifier" , 35
+[ 2025-06-26 15:52:03,986 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:03,987 ] QString::arg: Argument missing: "actionbar_button_identifier" , 36
+[ 2025-06-26 15:52:04,035 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,035 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,035 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,035 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,035 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,036 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,036 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,036 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,036 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,037 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,532 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,533 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,533 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,533 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,533 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,535 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,535 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,535 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,535 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,536 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,991 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,991 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,992 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,992 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,992 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,992 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,993 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,993 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:04,993 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:04,994 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:05,446 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:05,446 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:05,446 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:05,446 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:05,447 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:05,447 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:05,447 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:05,448 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:05,448 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:05,448 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:05,908 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:05,908 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:05,908 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:05,908 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:05,910 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:05,910 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:05,910 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:05,911 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:05,911 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:05,911 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:06,387 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:06,388 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:06,388 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:06,388 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:06,388 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:06,388 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:06,389 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:06,389 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:06,389 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:06,390 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:06,954 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:06,955 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:06,955 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:06,955 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:06,955 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:06,956 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:06,956 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:06,957 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:06,957 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:06,958 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:07,520 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:07,522 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:07,522 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:07,522 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:07,522 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:07,523 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:07,523 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:07,523 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:07,524 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:07,524 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,032 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,033 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,033 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,033 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,034 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,034 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,034 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,035 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,035 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,035 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,474 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,475 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,475 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,476 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,476 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,476 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,477 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,477 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,477 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,478 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,914 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,914 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,915 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,915 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,916 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,916 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,916 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,917 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:08,917 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:08,917 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:09,352 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:09,352 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:09,352 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:09,353 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:09,353 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:09,354 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:09,354 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:09,354 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:09,356 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:09,356 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:09,791 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:09,792 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:09,792 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:09,793 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:09,793 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:09,794 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:09,794 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:09,794 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:09,795 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:09,795 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:10,230 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:10,231 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:10,231 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:10,232 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:10,232 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:10,232 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:10,233 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:10,233 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:10,233 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:10,234 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:10,676 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:10,676 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:10,677 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:10,677 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:10,678 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:10,678 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:10,679 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:10,679 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:10,680 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:10,680 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:11,130 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:11,131 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:11,131 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:11,132 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:11,132 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:11,132 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:11,133 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:11,133 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:11,134 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:11,134 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:11,608 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:11,609 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:11,609 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:11,609 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:11,611 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:11,611 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:11,611 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:11,611 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:11,613 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:11,613 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:12,054 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,054 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,056 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,056 ] QString::arg: Argument missing: "actionbar_button_identifier" , 2
+[ 2025-06-26 15:52:12,056 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,057 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:52:12,057 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,058 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:52:12,058 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,059 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:52:12,059 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,059 ] QString::arg: Argument missing: "actionbar_button_identifier" , 6
+[ 2025-06-26 15:52:12,061 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,062 ] QString::arg: Argument missing: "actionbar_button_identifier" , 7
+[ 2025-06-26 15:52:12,062 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,063 ] QString::arg: Argument missing: "actionbar_button_identifier" , 8
+[ 2025-06-26 15:52:12,064 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,065 ] QString::arg: Argument missing: "actionbar_button_identifier" , 9
+[ 2025-06-26 15:52:12,066 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,066 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:52:12,066 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,068 ] QString::arg: Argument missing: "actionbar_button_identifier" , 11
+[ 2025-06-26 15:52:12,069 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,069 ] QString::arg: Argument missing: "actionbar_button_identifier" , 12
+[ 2025-06-26 15:52:12,070 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,071 ] QString::arg: Argument missing: "actionbar_button_identifier" , 13
+[ 2025-06-26 15:52:12,072 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,072 ] QString::arg: Argument missing: "actionbar_button_identifier" , 14
+[ 2025-06-26 15:52:12,073 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,073 ] QString::arg: Argument missing: "actionbar_button_identifier" , 15
+[ 2025-06-26 15:52:12,074 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,075 ] QString::arg: Argument missing: "actionbar_button_identifier" , 16
+[ 2025-06-26 15:52:12,076 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,076 ] QString::arg: Argument missing: "actionbar_button_identifier" , 17
+[ 2025-06-26 15:52:12,077 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,078 ] QString::arg: Argument missing: "actionbar_button_identifier" , 18
+[ 2025-06-26 15:52:12,078 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,080 ] QString::arg: Argument missing: "actionbar_button_identifier" , 19
+[ 2025-06-26 15:52:12,082 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,082 ] QString::arg: Argument missing: "actionbar_button_identifier" , 20
+[ 2025-06-26 15:52:12,083 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,085 ] QString::arg: Argument missing: "actionbar_button_identifier" , 21
+[ 2025-06-26 15:52:12,085 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,086 ] QString::arg: Argument missing: "actionbar_button_identifier" , 22
+[ 2025-06-26 15:52:12,087 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,088 ] QString::arg: Argument missing: "actionbar_button_identifier" , 23
+[ 2025-06-26 15:52:12,088 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,089 ] QString::arg: Argument missing: "actionbar_button_identifier" , 24
+[ 2025-06-26 15:52:12,090 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,091 ] QString::arg: Argument missing: "actionbar_button_identifier" , 25
+[ 2025-06-26 15:52:12,092 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,093 ] QString::arg: Argument missing: "actionbar_button_identifier" , 26
+[ 2025-06-26 15:52:12,093 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,093 ] QString::arg: Argument missing: "actionbar_button_identifier" , 27
+[ 2025-06-26 15:52:12,095 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,095 ] QString::arg: Argument missing: "actionbar_button_identifier" , 28
+[ 2025-06-26 15:52:12,096 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,096 ] QString::arg: Argument missing: "actionbar_button_identifier" , 29
+[ 2025-06-26 15:52:12,097 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,097 ] QString::arg: Argument missing: "actionbar_button_identifier" , 30
+[ 2025-06-26 15:52:12,098 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,099 ] QString::arg: Argument missing: "actionbar_button_identifier" , 31
+[ 2025-06-26 15:52:12,099 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,100 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:52:12,100 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,101 ] QString::arg: Argument missing: "actionbar_button_identifier" , 3
+[ 2025-06-26 15:52:12,102 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Magic Patch
+[ 2025-06-26 15:52:12,103 ] QString::arg: Argument missing: "time_second_short" , 1
+[ 2025-06-26 15:52:12,103 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,103 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:52:12,104 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,104 ] QString::arg: Argument missing: "actionbar_button_identifier" , 4
+[ 2025-06-26 15:52:12,105 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Swift Jab
+[ 2025-06-26 15:52:12,106 ] QString::arg: Argument missing: "time_second_short" , 2
+[ 2025-06-26 15:52:12,106 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,107 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:52:12,108 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,108 ] QString::arg: Argument missing: "actionbar_button_identifier" , 5
+[ 2025-06-26 15:52:12,109 ] QString::arg: Argument missing: actionbar_tooltip_spell_action, Tiger Clash
+[ 2025-06-26 15:52:12,109 ] QString::arg: Argument missing: "time_second_short" , 8
+[ 2025-06-26 15:52:12,109 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,111 ] QString::arg: Argument missing: "actionbar_button_identifier" , 6
+[ 2025-06-26 15:52:12,112 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,112 ] QString::arg: Argument missing: "actionbar_button_identifier" , 7
+[ 2025-06-26 15:52:12,113 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,113 ] QString::arg: Argument missing: "actionbar_button_identifier" , 8
+[ 2025-06-26 15:52:12,115 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,115 ] QString::arg: Argument missing: "actionbar_button_identifier" , 9
+[ 2025-06-26 15:52:12,115 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,116 ] QString::arg: Argument missing: "actionbar_button_identifier" , 10
+[ 2025-06-26 15:52:12,117 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,118 ] QString::arg: Argument missing: "actionbar_button_identifier" , 11
+[ 2025-06-26 15:52:12,118 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,119 ] QString::arg: Argument missing: "actionbar_button_identifier" , 12
+[ 2025-06-26 15:52:12,119 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,120 ] QString::arg: Argument missing: "actionbar_button_identifier" , 13
+[ 2025-06-26 15:52:12,121 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,121 ] QString::arg: Argument missing: "actionbar_button_identifier" , 14
+[ 2025-06-26 15:52:12,122 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,122 ] QString::arg: Argument missing: "actionbar_button_identifier" , 15
+[ 2025-06-26 15:52:12,123 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,123 ] QString::arg: Argument missing: "actionbar_button_identifier" , 16
+[ 2025-06-26 15:52:12,125 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,125 ] QString::arg: Argument missing: "actionbar_button_identifier" , 17
+[ 2025-06-26 15:52:12,125 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,126 ] QString::arg: Argument missing: "actionbar_button_identifier" , 18
+[ 2025-06-26 15:52:12,130 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,131 ] QString::arg: Argument missing: "actionbar_button_identifier" , 19
+[ 2025-06-26 15:52:12,132 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,132 ] QString::arg: Argument missing: "actionbar_button_identifier" , 20
+[ 2025-06-26 15:52:12,133 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,134 ] QString::arg: Argument missing: "actionbar_button_identifier" , 21
+[ 2025-06-26 15:52:12,134 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,135 ] QString::arg: Argument missing: "actionbar_button_identifier" , 22
+[ 2025-06-26 15:52:12,136 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,137 ] QString::arg: Argument missing: "actionbar_button_identifier" , 23
+[ 2025-06-26 15:52:12,138 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,138 ] QString::arg: Argument missing: "actionbar_button_identifier" , 24
+[ 2025-06-26 15:52:12,139 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,139 ] QString::arg: Argument missing: "actionbar_button_identifier" , 25
+[ 2025-06-26 15:52:12,140 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,141 ] QString::arg: Argument missing: "actionbar_button_identifier" , 26
+[ 2025-06-26 15:52:12,141 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,142 ] QString::arg: Argument missing: "actionbar_button_identifier" , 27
+[ 2025-06-26 15:52:12,143 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,143 ] QString::arg: Argument missing: "actionbar_button_identifier" , 28
+[ 2025-06-26 15:52:12,145 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,145 ] QString::arg: Argument missing: "actionbar_button_identifier" , 29
+[ 2025-06-26 15:52:12,146 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,146 ] QString::arg: Argument missing: "actionbar_button_identifier" , 30
+[ 2025-06-26 15:52:12,147 ] QString::arg: Argument missing: "actionbar_button_identifier" , 1
+[ 2025-06-26 15:52:12,147 ] QString::arg: Argument missing: "actionbar_button_identifier" , 31
+[ 2025-06-26 15:52:12,148 ] QString::arg: Argument missing: inspect_inspecting, 
+[ 2025-06-26 15:52:12,196 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:12,197 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:12,198 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:12,199 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:12,200 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:12,201 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:12,201 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:12,202 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:12,203 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: possible QQuickItem::polish() loop
+[ 2025-06-26 15:52:12,203 ] qrc:/qt/qml/qmlcomponents/qml/gamewindow.qml:542:11: QML ColumnLayout: ColumnLayout called polish() inside updatePolish() of ColumnLayout
+[ 2025-06-26 15:52:25,130 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:52:25,147 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:52:25,384 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:52:26,064 ] Asset loading complete
+[ 2025-06-26 15:52:30,680 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:52:30,697 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:52:30,931 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:52:31,633 ] Asset loading complete
+[ 2025-06-26 15:52:46,613 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:52:46,631 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:52:46,870 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:52:47,542 ] Asset loading complete
+[ 2025-06-26 15:52:48,005 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2bdf17aea00), parent's thread is QThread(0x2bde5ef7a80), current thread is QSGRenderThread(0x2bdf346d7c0)
+[ 2025-06-26 15:53:26,566 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:53:26,583 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:53:26,816 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:53:27,501 ] Asset loading complete
+[ 2025-06-26 15:53:28,011 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x283ef833c00), parent's thread is QThread(0x283e2b4a6c0), current thread is QSGRenderThread(0x283f4198c70)
+[ 2025-06-26 15:53:35,264 ] Request connection to gameserver  "tcp://69.62.97.61:7172"  (unprotected:  "tcp://69.62.97.61:7172" )  requested (Charakter "Tester" )
+[ 2025-06-26 15:53:35,270 ] Request connection to gameserver  "tcp://69.62.97.61:7172" "King OT"
+[ 2025-06-26 15:53:35,280 ] Connected to gameserver  "tcp://69.62.97.61:7172" "King OT"
+[ 2025-06-26 15:53:38,780 ] Connection to gameserver  "tcp://69.62.97.61:7172" "King OT"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 15:53:38,784 ] Disconnected from gameserver
+[ 2025-06-26 15:53:44,917 ] Request connection to gameserver  "tcp://69.62.97.61:7172"  (unprotected:  "tcp://69.62.97.61:7172" )  requested (Charakter "Testerss" )
+[ 2025-06-26 15:53:44,919 ] Request connection to gameserver  "tcp://69.62.97.61:7172" "King OT"
+[ 2025-06-26 15:53:44,928 ] Connected to gameserver  "tcp://69.62.97.61:7172" "King OT"
+[ 2025-06-26 15:54:28,557 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:28,558 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:28,558 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:28,558 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:28,558 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,000 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,001 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,001 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,001 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,001 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,013 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,013 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,563 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,563 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,578 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:29,578 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,183 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,183 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,183 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,215 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,215 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,217 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,217 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,217 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,217 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,448 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,448 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,448 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,448 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,448 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,450 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,450 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,462 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:30,463 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,067 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,069 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,069 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,069 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,081 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,081 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,528 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,528 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,528 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,528 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:31,530 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:32,278 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:32,278 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:32,279 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:32,279 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:32,279 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:32,291 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:32,291 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:34,953 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:34,953 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:34,953 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:34,954 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-06-26 15:54:37,855 ] Connection to gameserver  "tcp://69.62.97.61:7172" "King OT"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 15:54:37,890 ] Disconnected from gameserver
+[ 2025-06-26 15:54:37,918 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://kingot.com.br/login.php") ) due to too many retries.
+[ 2025-06-26 15:54:39,960 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 15:54:39,977 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 15:54:40,213 ] Using spritesheet cache size of 910
+[ 2025-06-26 15:54:40,908 ] Asset loading complete
+[ 2025-06-26 15:54:41,384 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x264c17660e0), parent's thread is QThread(0x264b4b0f930), current thread is QSGRenderThread(0x264c6276a40)
+[ 2025-06-26 15:54:46,324 ] Request connection to gameserver  "tcp://69.62.97.61:7172"  (unprotected:  "tcp://69.62.97.61:7172" )  requested (Charakter "Testerss" )
+[ 2025-06-26 15:54:46,359 ] Request connection to gameserver  "tcp://69.62.97.61:7172" "King OT"
+[ 2025-06-26 15:54:46,371 ] Connected to gameserver  "tcp://69.62.97.61:7172" "King OT"
+[ 2025-06-26 16:04:47,787 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 16:04:47,804 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 16:04:49,301 ] Using spritesheet cache size of 910
+[ 2025-06-26 16:04:52,472 ] Asset loading complete
+[ 2025-06-26 16:04:53,026 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2cbbe441060), parent's thread is QThread(0x2cbb18e3810), current thread is QSGRenderThread(0x2cbbeed7c70)
+[ 2025-06-26 16:04:56,726 ] Request connection to gameserver  "tcp://69.62.97.61:7172"  (unprotected:  "tcp://69.62.97.61:7172" )  requested (Charakter "Testerss" )
+[ 2025-06-26 16:04:56,731 ] Request connection to gameserver  "tcp://69.62.97.61:7172" "King OT"
+[ 2025-06-26 16:04:56,743 ] Connected to gameserver  "tcp://69.62.97.61:7172" "King OT"
+[ 2025-06-26 16:06:42,723 ] Connection to gameserver  "tcp://69.62.97.61:7172" "King OT"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 16:06:42,757 ] Disconnected from gameserver
+[ 2025-06-26 16:08:46,700 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 16:08:46,716 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 16:08:46,954 ] Using spritesheet cache size of 910
+[ 2025-06-26 16:08:47,671 ] Asset loading complete
+[ 2025-06-26 16:08:48,164 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1d89589b3f0), parent's thread is QThread(0x1d8892ac700), current thread is QSGRenderThread(0x1d8801a5410)
+[ 2025-06-26 16:10:51,020 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 16:10:51,041 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 16:10:51,356 ] Using spritesheet cache size of 910
+[ 2025-06-26 16:10:52,273 ] Asset loading complete
+[ 2025-06-26 16:10:52,829 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x23b71f22690), parent's thread is QThread(0x23b659bd470), current thread is QSGRenderThread(0x23b00419430)
+[ 2025-06-26 16:11:07,339 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:11:07,346 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:11:07,348 ] Connected to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:11:27,827 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 16:11:27,865 ] Disconnected from gameserver
+[ 2025-06-26 16:11:28,008 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:11:28,011 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:11:28,015 ] Connected to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:11:44,627 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 16:11:44,663 ] Disconnected from gameserver
+[ 2025-06-26 16:11:44,789 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:11:44,792 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:11:44,794 ] Connected to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:12:28,863 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://baiak.fun/login.php") ) due to too many retries.
+[ 2025-06-26 16:12:28,978 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 16:12:29,012 ] Disconnected from gameserver
+[ 2025-06-26 16:12:29,122 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:12:29,124 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:12:29,127 ] Connected to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:12:49,184 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://baiak.fun/login.php") ) due to too many retries.
+[ 2025-06-26 16:12:49,827 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 16:12:49,859 ] Disconnected from gameserver
+[ 2025-06-26 16:12:49,959 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under Knight" )
+[ 2025-06-26 16:12:49,961 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:12:49,965 ] Connected to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:16:04,672 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://baiak.fun/login.php") ) due to too many retries.
+[ 2025-06-26 16:16:05,792 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://baiak.fun/login.php") ) due to too many retries.
+[ 2025-06-26 16:16:06,028 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 16:16:06,074 ] Disconnected from gameserver
+[ 2025-06-26 16:16:06,181 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:16:06,184 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:16:06,188 ] Connected to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:18:05,878 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 16:18:05,915 ] Disconnected from gameserver
+[ 2025-06-26 16:19:15,678 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://baiak.fun/login.php") ) due to too many retries.
+[ 2025-06-26 16:19:16,792 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:19:16,795 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:19:20,928 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "Connection refused" )
+[ 2025-06-26 16:19:21,978 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:19:26,128 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "Connection refused" )
+[ 2025-06-26 16:19:26,135 ] Disconnected from gameserver
+[ 2025-06-26 16:19:27,295 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:19:27,298 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:19:31,427 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "Connection refused" )
+[ 2025-06-26 16:19:32,428 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:19:36,578 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "Connection refused" )
+[ 2025-06-26 16:19:36,581 ] Disconnected from gameserver
+[ 2025-06-26 16:19:37,732 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:19:37,733 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:19:41,878 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "Connection refused" )
+[ 2025-06-26 16:19:42,928 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:19:47,078 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "Connection refused" )
+[ 2025-06-26 16:19:47,081 ] Disconnected from gameserver
+[ 2025-06-26 16:19:48,225 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:19:48,227 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:19:48,233 ] Connected to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:19:48,527 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 16:19:48,534 ] Disconnected from gameserver
+[ 2025-06-26 16:20:12,342 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://baiak.fun/login.php") ) due to too many retries.
+[ 2025-06-26 16:20:12,822 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:20:12,825 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:20:12,827 ] Connected to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:20:12,978 ] Connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"  was disconnected ( "The remote host closed the connection" )
+[ 2025-06-26 16:20:12,983 ] Disconnected from gameserver
+[ 2025-06-26 16:20:14,238 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://baiak.fun/login.php") ) due to too many retries.
+[ 2025-06-26 16:23:34,165 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://baiak.fun/login.php") ) due to too many retries.
+[ 2025-06-26 16:23:34,973 ] Request connection to gameserver  "tcp://186.250.202.22:7172"  (unprotected:  "tcp://186.250.202.22:7172" )  requested (Charakter "Under" )
+[ 2025-06-26 16:23:34,974 ] Request connection to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:23:34,978 ] Connected to gameserver  "tcp://186.250.202.22:7172" "Baiak Under"
+[ 2025-06-26 16:36:10,988 ] Retrying to obtain clipboard.
+[ 2025-06-26 17:43:00,222 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 17:43:00,239 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 17:43:00,570 ] Using spritesheet cache size of 910
+[ 2025-06-26 17:43:03,978 ] Asset loading complete
+[ 2025-06-26 17:43:04,475 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1f17a72dfe0), parent's thread is QThread(0x1f16dc6cc40), current thread is QSGRenderThread(0x1f103ea3960)
+[ 2025-06-26 17:47:32,720 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 17:47:32,738 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 17:47:32,977 ] Using spritesheet cache size of 910
+[ 2025-06-26 17:47:33,688 ] Asset loading complete
+[ 2025-06-26 17:47:34,173 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x210ef020b30), parent's thread is QThread(0x210e2999b70), current thread is QSGRenderThread(0x210ef2ad700)
+[ 2025-06-26 20:07:46,440 ] vkDebug: loader_create_device_chain: Failed to find 'vkGetInstanceProcAddr' in layer "C:\Program Files (x86)\Overwolf\0.276.0.6\.\ow-graphics-vulkan.dll".  Skipping layer.
+[ 2025-06-26 20:07:46,461 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-06-26 20:07:46,991 ] Using spritesheet cache size of 910
+[ 2025-06-26 20:07:52,018 ] Asset loading complete
+[ 2025-06-26 20:07:53,014 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1c843fc3650), parent's thread is QThread(0x1c838674d60), current thread is QSGRenderThread(0x1c800a61600)

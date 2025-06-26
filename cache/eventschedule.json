@@ -1,0 +1,75 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "The moon is full! Beware, lycanthropic creatures like werewolves, werefoxes or werebears roam the lands now. And they are more aggressive and numerous than usual.",
+            "displaypriority": 5,
+            "enddate": 1749783600,
+            "isseasonal": false,
+            "name": "Full Moon",
+            "startdate": 1749783600
+        },
+        {
+            "colordark": "#3d5c9b",
+            "colorlight": "#3b3737",
+            "description": "Gain experience 2x faster when defeating monsters.",
+            "displaypriority": 1,
+            "enddate": 1750561200,
+            "isseasonal": false,
+            "name": "Double Exp",
+            "startdate": 1750388400
+        },
+        {
+            "colordark": "#0b7734",
+            "colorlight": "#7a1b34",
+            "description": "Train your skills 2x faster in all training modalities.",
+            "displaypriority": 3,
+            "enddate": 1749351600,
+            "isseasonal": false,
+            "name": "Double Skills",
+            "startdate": 1749178800
+        },
+        {
+            "colordark": "#0b7734",
+            "colorlight": "#7a1b34",
+            "description": "It\\'s forging day! All players will have a +20% success bonus for adding Tiers to items.",
+            "displaypriority": 3,
+            "enddate": 1749956400,
+            "isseasonal": false,
+            "name": "Forge Bonus",
+            "startdate": 1749783600
+        },
+        {
+            "colordark": "#1d5263",
+            "colorlight": "#24657b",
+            "description": "Spawn Rate Event! Monsters respawn at a faster rate.",
+            "displaypriority": 1,
+            "enddate": 1749956400,
+            "isseasonal": false,
+            "name": "Rapid Respawn",
+            "startdate": 1749783600
+        },
+        {
+            "colordark": "#64162b",
+            "colorlight": "#3b3737",
+            "description": "It\\'s hunting day! All monsters will give 2x more bestiary points when defeated.",
+            "displaypriority": 3,
+            "enddate": 1751166000,
+            "isseasonal": false,
+            "name": "Double Bestiary",
+            "startdate": 1750993200
+        },
+        {
+            "colordark": "#64162b",
+            "colorlight": "#3b3737",
+            "description": "It\\'s hunting day! All bosses will give 2x more bosstiary points when defeated.",
+            "displaypriority": 3,
+            "enddate": 1751166000,
+            "isseasonal": false,
+            "name": "Double Bosstiary",
+            "startdate": 1750993200
+        }
+    ],
+    "lastupdatetimestamp": 1750961540
+}
